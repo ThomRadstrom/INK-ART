@@ -1,7 +1,7 @@
 .logo {
     position: absolute;
     top: 2px;
-    left: 50%;
+    left: 45%;
     font-size: 30px;
     color: white;
 }
@@ -24,6 +24,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border: 1px solid #404040;
 }
 
 li a:hover {
@@ -43,8 +44,28 @@ img {
     position: absolute;
     bottom: 50%;
     right: 50%;
-    background-color: rgba(0, 0, 0, 0.5);;
+    background-color: rgba(0, 0, 0, 0.5);
     color: white;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+footer {
+    height: 70px;
+}
+
+.socials {
+    text-align: center;
+    padding-left: 40%;
+}
+
+.socials > li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 45px;
+    margin: 0;
+    padding: 0;
+    color: white;
 }
