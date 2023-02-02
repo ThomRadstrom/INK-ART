@@ -41,6 +41,7 @@ li a:hover {
 
 img {
     width: 100%;
+    height: 55%;
     margin-top: 1px;
 }
 
@@ -84,12 +85,18 @@ footer {
 
 .imgabout-text {
     position: absolute;
-    bottom: 50%;
+    bottom: 40%;
     left: 45%;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     padding-left: 20px;
     padding-right: 20px;
-    height: 20%;
-    width: 30%;
+}
+
+.imgabout-text p {
+    font-size: 250%;
+}
+
+.imgabout-text h3 {
+    font-size: 250%;
 }
