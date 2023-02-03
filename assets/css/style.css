@@ -39,25 +39,25 @@ li a:hover {
     background-color: #111;
 }
 
-img {
-    width: 100%;
-    height: 55%;
-    margin-top: 1px;
-}
-
-.img-container {
-    position: relative;
-}
-
-.img-text {
-    position: absolute;
-    bottom: 50%;
-    right: 50%;
-    background-color: rgba(0, 0, 0, 0.5);
+.header {
+    text-align: center;
+    background: #404040;
     color: white;
-    padding-left: 20px;
-    padding-right: 20px;
+    font-size: 30px;
+    padding: 50px;
 }
+
+.container::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .img-gallery {
+    float: left;
+    width: 32%;
+    padding: 5px;
+  }
 
 footer {
     height: 70px;
@@ -77,26 +77,4 @@ footer {
     margin: 0;
     padding: 0;
     color: white;
-}
-
-.imgabout-container {
-    position: relative;
-}
-
-.imgabout-text {
-    position: absolute;
-    bottom: 40%;
-    left: 45%;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-.imgabout-text p {
-    font-size: 250%;
-}
-
-.imgabout-text h3 {
-    font-size: 250%;
 }
