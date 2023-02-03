@@ -47,6 +47,14 @@ li a:hover {
     padding: 50px;
 }
 
+.header-about {
+    text-align: center;
+    background: #404040;
+    color: white;
+    font-size: 30px;
+    padding: 40px;
+}
+
 .container::after {
     content: "";
     clear: both;
