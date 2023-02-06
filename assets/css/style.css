@@ -5,7 +5,7 @@ body {
 .logo {
     position: absolute;
     top: 1%;
-    left: 45%;
+    left: 46%;
     font-size: 40px;
     color: white;
     padding: 0;
@@ -63,20 +63,22 @@ li a:hover {
 }
 
 .about-text {
-    position: absolute;
+    position: relative;
+    float: right;
     color: white;
-    left: 50%;
-    top: 50%;
+    margin-right: 40px;
+    margin-top: 5px;
     font-size: xx-large
 }
 
 .open-times {
     color: white;
     border: 2px solid #404040;
-    position: absolute;
-    top: 70%;
-    left: 50%;
+    position: relative;
+    float: right;
     width: 20%;
+    margin-right: 5px;
+    margin-top: 5px;
     font-size: larger;
 }
 
@@ -129,8 +131,9 @@ footer {
   
   
   .booking-container {
-    position: absolute;
-    right: 400px;
+    position: relative;
+    float: right;
+    right: 40px;
     margin: 20px;
     max-width: 300px;
     padding: 16px;
@@ -164,3 +167,18 @@ footer {
     font-size: larger;
   }
  
+  @media screen and (max-width: 600px) {
+    .logo {
+      top: 10%;
+    }
+  }
+
+  @media screen and (max-width: 630px) {
+    .open-times {
+      float: none;
+    }
+
+    .about-text {
+      float: none;
+    }
+  }
