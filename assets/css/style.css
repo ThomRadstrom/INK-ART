@@ -68,11 +68,9 @@ li a:hover {
 }
 
 .about-text {
-    position: relative;
+    position: relative; 
     float: right;
     color: white;
-    margin-right: 40px;
-    margin-top: 5px;
     font-size: xx-large
 }
 
@@ -82,8 +80,6 @@ li a:hover {
     position: relative;
     float: right;
     width: 20%;
-    margin-right: 5px;
-    margin-top: 5px;
     font-size: larger;
 }
 
@@ -177,15 +173,5 @@ footer {
   @media screen and (max-width: 600px) {
     .logo {
       top: 10%;
-    }
-  }
-
-  @media screen and (max-width: 630px) {
-    .open-times {
-      float: none;
-    }
-
-    .about-text {
-      float: none;
     }
   }
