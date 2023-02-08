@@ -52,10 +52,12 @@
   + CSS
     + No errors were found when passing through the official WC3 validator.
   + Accessibility
-    + I confirmed that the colors and fonts are easy to read and accessible by running it through lighthouse <br /> in devtools.
-    ![Showcasing the lighthouse results]() <br />
+    + I confirmed that the colors and fonts are easy to read and accessible by running it through lighthouse in devtools.
+    ![Showcasing the lighthouse results](assets/images/lighthouse-home.png) <br />
+    ![Showcasing the lighthouse results](assets/images/lighthouse-about.png) <br />
+    ![Showcasing the lighthouse results](assets/images/lighthouse-booking.png) <br />
 # Unfixed bugs 
-  No unfixed bugs
+  + No unfixed bugs.
 # Deployment
   + The site was deployed to GitHub pages. The steps to deploy as follows:
     + In the github repository, navigate to the settings tab.
