@@ -2,14 +2,14 @@
    + The INK&ART website is a website for a tattoo shop. <br />
    + The users will find everything they need to know to book their first tattoo appointment: <br />
    + Adress ,socialmedia ,info about guidelines , booking form where the user can explain their tattoo idea. <br />
-     ![Showcasing the i am responsive website](assets/images/amiresponsive-INK%26ART.png) <br />
+     ![Showcasing the i am responsive website](assets/images/amiresponsive-ink-art.png) <br />
 # Features
  + Navigation
    + Featured at the top of the page, the navigation shows the tattoo shops name in the middle: INK&ART.
    + The other navigation links are to the left: Home, About, Booking which link to different pages.
    + The navigation is in a font to make it feel more like a tattoo shop, and a color that contrasts with the background.
    + The navigation is clear and makes it easy for the user to find the different sections of info. <br />
-   ![Showcasing the navigation bar](assets/images/INK%26ART-logo.png) <br />
+   ![Showcasing the navigation bar](assets/images/ink-art-logo.png) <br />
 # Home Page
  + Home
    + The home page welcomes the user.
@@ -17,7 +17,7 @@
    + Shows pictures of tattoos and 1 artist in work to give users a little more understanding about the context.
    + Social media icons at the bottom so the user can look at artists previous work.
    + colors are white and grey so that users can easily spot: text, images and icons. <br />
-   ![Showcasing the home page](assets/images/INK%26ART-WELCOME-PAGE.png) <br />
+   ![Showcasing the home page](assets/images/ink-art-welcome-page.png) <br />
 # About Page
   + About
     + content
@@ -32,7 +32,7 @@
     + Gives the user a easy way to describe their tattoo idea, and the shop an easy way to pair up the right artist with the customer.
     + Social media icons at the bottom so the user can look at artists previous work.
     + colors are white and grey so that users can easily spot: text, images and icons. <br />
-    ![Showcasing the booking page](assets/images/ART%26INK-BOOKING-PAGE.png) <br />
+    ![Showcasing the booking page](assets/images/art-ink-booking-page.png) <br />
 # Testing
   + I tested that this page works in different web browsers: Chrome, Firefox, Safari.
   + I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the <br /> devtools device toolbar.
