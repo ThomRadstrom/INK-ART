@@ -18,6 +18,10 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+nav {
+  background-color: #333;
+}
+
 ul {
     list-style-type: none;
     padding: 0;
@@ -81,6 +85,8 @@ li a:hover {
     float: right;
     width: 20%;
     font-size: larger;
+    text-align: center;
+    margin-right: 15%;
 }
 
 .container::after {
