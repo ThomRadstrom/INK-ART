@@ -20,10 +20,13 @@
    ![Showcasing the home page](assets/images/ink-art-welcome-page.png) <br />
 # About Page
   + About
-    + content
-    + content
-    + content <br />
-    ![Showcasing the about page]() <br />
+    + The about page sticks to the simple layout.
+    + Showcasing the tattoo shops guidelines in the header.
+    + Showcasing one more artist in work. 
+    + Shows open-closed times and the adress for the shop.
+    + Social media icons at the bottom so the user can look at artists previous work.
+    + colors are white and grey so that users can easily spot: text, images and icons. <br />
+    ![Showcasing the about page](assets/images/about-page.png) <br />
 # Booking Page
   + Booking
     + The booking page has a simple layout.
